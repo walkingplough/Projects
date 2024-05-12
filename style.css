@@ -4,3 +4,9 @@
 .b2{
     background-color: #1F2937;
 }
+h1{
+    text-shadow:6px 6px #000000;
+}
+h2{
+    text-shadow:3px 3px #000000;
+}
