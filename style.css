@@ -10,3 +10,11 @@ h1{
 h2{
     text-shadow:3px 3px #000000;
 }
+.discordcard{
+height: 200px;
+margin: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
